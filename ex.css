@@ -1,0 +1,12 @@
+body{
+    background-image: url(background.jpg);
+    margin: auto;
+    width: 1000px;
+}
+.motif-p{
+    color: rgb(43, 6, 207);
+}
+.fleft{
+    float: lefst;}
+    .fleft1{
+        float:right;}
